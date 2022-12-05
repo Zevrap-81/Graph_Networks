@@ -1,0 +1,17 @@
+class-resolver
+matplotlib
+numpy
+plotly
+pynvml
+scikit-learn
+scipy
+tensorboard
+torch
+torch-cluster
+torch-geometric
+torch-scatter
+torch-sparse
+torch-spline-conv
+torchaudio
+torchvision
+tqdm
